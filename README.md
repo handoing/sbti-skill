@@ -1,10 +1,24 @@
+<div align="center">
+
 # SBTI.skill
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
+
+</div>
 
 ## 项目简介
 
 > MBTI已死，SBTI当立！
 
-SBTI 人格测试是一个基于"发疯文学"和"互联网自嘲"风格的恶搞版 MBTI 人格测试技能。通过 30+ 道幽默风趣的题目，从 15 个维度对用户进行评分，最终匹配到 27 种罕见的"神经质"人格类型之一。
+SBTI 人格测试是一个基于"发疯文学"和"互联网自嘲"风格的恶搞版 MBTI 人格测试技能。
+
+通过 30+ 道幽默风趣的题目，从 15 个维度对用户进行评分，最终匹配到 27 种罕见的"神经质"人格类型之一。
+
+## 项目截图
+
+![项目截图](assets/screen.png)
 
 ## 功能特点
 
@@ -97,6 +111,10 @@ sbti-skill/
 |------|------|----------|
 | DRUNK | 酒鬼 | 烈酒烧喉，不得不醉。 |
 | HHHH | 傻乐者 | 哈哈哈哈哈哈。 |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=handoing/sbti-skill&type=Date)](https://star-history.com/#handoing/sbti-skill&Date)
 
 ## 许可证
 
